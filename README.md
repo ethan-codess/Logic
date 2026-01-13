@@ -1,33 +1,31 @@
 # Logic
 
-Logic as a tool for distinguishing between the true and the false, as said by Averroes,
-examines the general forms which arguments may take, which forms are valid, and
-which are invalid. An argument is made up of a certain number of propositions. And a
-proposition is made up of obviously of a certain number of words. So we have to start
-our analysis of the formal structure of an argument by an analysis of the smallest unit
-of an argument, ‘term’ and proceed to examine ‘propositions,’ and structure of
-arguments.
-By ‘inference’ is meant that operation of reason by which from some known truth we
-arrive at another truth. Everyday experience teaches us that it is the way man learns
-and that is the way man argues for or against his beliefs and convictions. In mediate
-inference, deduction and induction are used very well. Deduction is when from a
-more general truth one arrives at a more particular fact. Induction is when from
-particular facts one arrives at a general truth. Logically speaking ‘deduction’ and
-‘induction’ differ considerably. Study of different kinds of syllogisms is so crucial for
-finding the validity of an argument.
-Unit 1 introduces the students to the basics of categorical propositions. This unit has
-introduced us to terms, propositions, categorical propositions and Aristotle’s square of
-oppositions.
-Unit 2 dwells on the central discussion of Logic, namely inference. Reasoning in a
-right way is the focal point of Logic. Explaining the significance of inference in logic
-and in life, the unit introduces the students to the basics of categorical syllogism,
-along with various kinds of syllogisms.
-Unit 3 deals with figures, mood and types of syllogisms. The epistemological
-assumptions of inference by the ‘figure’ of a syllogism is meant that kind of syllogism
-which is determined by the function the ‘middle term’ plays in the syllogism. By the
-‘mood’ of a syllogism is meant that kind of a syllogism which is determined by the
-‘quantity’ and ‘quality’ of the three propositions.
-Unit 4 helps the students to understand the validity of syllogisms and thus sharpen the
-process of inference. As Logic is concerned with the validity of an argumentation this
-unit provides tools and different methods to point out the invalid syllogisms giving
-adequate arguments.
+Logic is the systematic study of the general structures of sound reasoning and valid arguments;
+the study of the methods and principles used for right reasoning. The proper study of logic will
+enable the student to reason well and to pay due attention to the analysis of fallacies and natural
+mistakes in reasoning. The study of logic gives the students techniques and methods for testing
+the correctness of different kinds of reasoning. Logic will provide us with criteria to correct
+reasoning with which we can test arguments for their correctness. Systematic study of arguments
+has its origins in several ancient civilizations in ancient India, China and Greece. In the
+development of Western logic we see Aristotle systematizing it as examining the general forms
+of arguments with distinguishing them between valid and invalid. This course on Logic deals
+with all the aspects of classical and modern logic as found in the Western tradition.
+Block 1 gives a brief picture of the concerns of the traditional and classical logic as it emerged
+from the Aristotelian period onwards. The basic understanding of terms, propositions and
+syllogisms with figures and moods enables the students of philosophy to dwell in the realm of
+right reasoning and validity and invalidity of argumentation.
+Block 2 is concerned with the sentential Logic as in the Modern Logic. It brings home to the
+students the importance of argument forms in Modern Logic as it is clear that arguments are
+different from argument forms.
+Block 3 brings home to the students the methods of proving validity of an argument using
+different procedures and rules that are employed in sentential logic. The block elaborates on the
+proving validity using rules of inference in the first unit. In the next, attempt is made to give an
+idea about conditional proof, by giving definition, importance, and principles of this method. We
+then proceed to have an essential understanding of Indirect Proof and the principles used in this
+method. Finally, an idea about proving invalidity is given.
+Block 4 is dedicated for Predicate Logic dealing with Quantifiers, Rules of Instantiation and
+Generalization, Proof of validity and Proving Invalidity. It deals with the basic understanding of
+predicate logic with the usage of quantifiers to symbolize the proposition. By doing so the
+students would be able to progress their reasoning aptitude by identifying the internal structure of
+the proposition. The proof of validity and proving the invalidity in predicate logic are well
+covered in this block. Finally, the application part of symbolic lo
